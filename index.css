@@ -1,0 +1,58 @@
+.navbar{
+    background-color: #434242;
+    font-family: Montserrat;
+}
+
+.navbar ul{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+
+.navbar a{
+	color: white;
+	text-decoration: none;
+	padding: 14px;
+	display: block;
+	text-align: center;
+
+}
+ 
+body{
+	background-color: #5d5a6b;
+}
+
+
+.img{
+	float: left;
+	margin-left: 100px;
+	height:300px;
+	margin-top: 100px;
+	margin-left: 500px;
+	border-radius: 50%;
+    width: 320px;
+    height: 340px;
+}
+
+.text{
+    font-family: Montserrat;
+    float: left;
+    margin: 140px;
+    margin-left: 50px;
+    margin-top: 150px;
+    color: #dadada;
+}
+
+.text h2{
+	font-size: 40px;
+
+}
+.text h3{
+	font-size: 25px;
+}
+
+.text p{
+	font-size: 12px;
+}
+

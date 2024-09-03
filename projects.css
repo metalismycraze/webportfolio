@@ -1,0 +1,38 @@
+.container{
+	font-family: Montserrat;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.container h2{
+	font-family: montserrat;
+	font-size: 40px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	color: #434242;
+}
+
+.card{
+	width: 300px;
+	margin: 10px;
+	border-radius: 15px;
+}
+
+.card-image img{
+	width: 100%;
+}
+
+.card-body h3{
+	text-align: center;
+	font-size: 18px;
+	color: #434242;
+}
+
+.card-body p{
+	text-align: justify;
+	margin-bottom: 10px;
+	padding: 5px;
+	font-size: 15px;
+	color: #434242;
+}
