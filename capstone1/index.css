@@ -1,0 +1,184 @@
+.navbar{
+    background-color: #434242;
+    font-family: Montserrat;
+}
+
+.navbar ul{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+
+.navbar a{
+	color: white;
+	text-decoration: none;
+	padding: 14px;
+	display: block;
+	text-align: center;
+
+}
+ 
+body{
+	background-color: #5d5a6b;
+}
+
+
+.img{
+	float: left;
+	margin-left: 100px;
+	height: 300px;
+	margin-top: 100px;
+	margin-left: 260px;
+	border-radius: 50%;
+    width: 320px;
+    height: 340px;
+}
+
+.text{
+    font-family: Montserrat;
+    float: left;
+    margin: 140px;
+    margin-left: 50px;
+    margin-top: 150px;
+    color: #dadada;
+}
+
+.text h2{
+	font-size: 40px;
+
+}
+.text h3{
+	font-size: 25px;
+}
+
+.text p{
+	font-size: 12px;
+}
+
+.container{
+	font-family: Montserrat;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	background-color: white;
+}
+
+.container h2{
+	font-family: montserrat;
+	font-size: 40px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	color: #434242;
+}
+
+.card{
+	width: 300px;
+	margin: 10px;
+	border-radius: 15px;
+}
+
+.card-image img{
+	width: 100%;
+}
+
+.card-body h3{
+	text-align: center;
+	font-size: 18px;
+	color: #434242;
+}
+
+.card-body p{
+	text-align: justify;
+	margin-bottom: 10px;
+	padding: 5px;
+	font-size: 15px;
+	color: #434242;
+}
+
+h4{
+  display: inline-block;
+  margin: 2.25%;
+  width: 15%; 
+}
+
+#tools-img{
+    display: inline;
+  margin: 1%;
+  width: 2%; 
+}
+
+.tools-backgound{
+    color: #6b6b6b;
+}
+
+.background{
+   background-color: #6b6b6b;
+}
+
+
+
+.logo{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	margin-top: 1%;
+}
+
+
+
+#contact-pic{
+		background:	linear-gradient(rgba(0, 0, 0, 0.59), rgba(0, 0, 0, 0.59)
+	), url(./images/googlemap.png);
+}
+
+#contact{
+	background: rgba(181, 144, 102);
+
+}
+
+
+.btn-primary {
+  font-family: Montserrat !important;
+  color: #fff;
+  background-color: rgba(181, 144, 102, 1) !important;
+  border-color: rgba(181, 144, 102, 1) !important;
+  border-radius: 10px;
+  padding: 0.25rem;
+  font-weight: 600 !important;
+  font-size: 20px !important;
+}
+
+#footer{
+	background-color: rgb(181, 144, 102) !important;
+	margin-top: 1rem;
+	}
+label{
+				color: rgb(181, 144, 102) !important;
+				font-family: Montserrat !important;
+				font-weight: 600 !important;
+				font-size: 20px !important;
+
+	}
+textarea{
+		color: rgb(118, 92, 61) !important;
+		font-family: Montserrat !important;
+		font-weight: 600 !important;
+		font-size: 24px !important;
+}
+input{
+	color: rgb(118, 92, 61) !important;
+	font-family: Montserrat !important;
+	font-weight: 600 !important;
+	font-size: 24px !important;
+}
+
+#footer p{
+		font-family: Montserrat;
+		font-size: 16px !important;
+		font-weight: 500 !important;
+		text-align: center !important;
+		color: rgba(255, 242, 228, 1) !important;
+		padding: 1rem;
+		
+}
